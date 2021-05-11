@@ -1,0 +1,6 @@
+<!--pages/post/welcome/welcome.wxml-->
+<view class="main">
+  <view class="hello">来留个言吧~</view>
+  <image class="biCode" src="../../../images/userAvatar.jpg" bindlongtap="saveImg" />
+  <view class="txt">名字还没想好</view> 
+</view>
